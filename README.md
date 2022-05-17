@@ -4,5 +4,5 @@ I'm Alex and extremely interested in data science and honestly just continuing t
 
 ## What am I currently doing?
 
-Im currenetly finishing up my final year of undergrad along with my first year of grad school.
+I'm currently finishing up my final year of undergrad along with my first year of grad school.
 
